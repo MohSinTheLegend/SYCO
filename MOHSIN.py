@@ -306,7 +306,7 @@ def super():
 	print logo
 	print "\033[1;96m•◈•───────────────•◈•\033[1;92mMOHSIN*ALI\033[1;96m•◈•───────────────•◈•"
 	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m] \033[1;93mHACK WITH FRIEND LIST"
-	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m] \033[1;93mHACK WITH PUBLICK ID"
+	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m] \033[1;93mHACK WITH PUBLIC ID"
 	print "\x1b[1;96m[\x1b[1;92m3\x1b[1;96m] \033[1;93mHACK WITH FILE"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m] \033[1;91mBack"
 	pilih_super()
