@@ -142,10 +142,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Serious Please"
-            os.system('xdg-open https://www.facebook.com/AmirBabeR2')
+            os.system('xdg-open https://www.facebook.com/MOHSIN.ALI.ALL.HATERX.KA.PAPA.FEEL.THE.POWER')
     else:
         print "Wrong Dear!"
-        os.system('xdg-open https://fb.me/AmirBabeR945')
+        os.system('xdg-open https://www.facebook.com/MOHSIN.ALI.ALL.HATERX.KA.PAPA.FEEL.THE.POWER')
 
 ####login#########
 def login():
